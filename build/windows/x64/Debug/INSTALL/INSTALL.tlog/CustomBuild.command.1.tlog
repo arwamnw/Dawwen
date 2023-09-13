@@ -1,0 +1,10 @@
+^C:\USERS\MRMOR\DOWNLOADS\FIVERR DAWWEN\DAWWEN02\BUILD\WINDOWS\CMAKEFILES\35C5914DC90D549F5114C95F9CDA311C\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

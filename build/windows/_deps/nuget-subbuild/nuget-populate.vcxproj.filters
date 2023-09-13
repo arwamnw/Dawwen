@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mrmor\Downloads\fiverr dawwen\dawwen02\build\windows\_deps\nuget-subbuild\CMakeFiles\5cd8ba40212fca62b6e6e95458b26599\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mrmor\Downloads\fiverr dawwen\dawwen02\build\windows\_deps\nuget-subbuild\CMakeFiles\5cd8ba40212fca62b6e6e95458b26599\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mrmor\Downloads\fiverr dawwen\dawwen02\build\windows\_deps\nuget-subbuild\CMakeFiles\5cd8ba40212fca62b6e6e95458b26599\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mrmor\Downloads\fiverr dawwen\dawwen02\build\windows\_deps\nuget-subbuild\CMakeFiles\5cd8ba40212fca62b6e6e95458b26599\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mrmor\Downloads\fiverr dawwen\dawwen02\build\windows\_deps\nuget-subbuild\CMakeFiles\5cd8ba40212fca62b6e6e95458b26599\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mrmor\Downloads\fiverr dawwen\dawwen02\build\windows\_deps\nuget-subbuild\CMakeFiles\5cd8ba40212fca62b6e6e95458b26599\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mrmor\Downloads\fiverr dawwen\dawwen02\build\windows\_deps\nuget-subbuild\CMakeFiles\5cd8ba40212fca62b6e6e95458b26599\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mrmor\Downloads\fiverr dawwen\dawwen02\build\windows\_deps\nuget-subbuild\CMakeFiles\5cd8ba40212fca62b6e6e95458b26599\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mrmor\Downloads\fiverr dawwen\dawwen02\build\windows\_deps\nuget-subbuild\CMakeFiles\5cd8ba40212fca62b6e6e95458b26599\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mrmor\Downloads\fiverr dawwen\dawwen02\build\windows\_deps\nuget-subbuild\CMakeFiles\83c588da7d7aa3499a12720379fb2647\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mrmor\Downloads\fiverr dawwen\dawwen02\build\windows\_deps\nuget-subbuild\CMakeFiles\3e4d7442306dd214d5562dfc07084d61\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\mrmor\Downloads\fiverr dawwen\dawwen02\build\windows\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\mrmor\Downloads\fiverr dawwen\dawwen02\build\windows\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B3893AC7-0AC6-3376-8FCA-CB44125BC4B4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

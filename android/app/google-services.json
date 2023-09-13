@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "528817376930",
+    "project_id": "dawwen-8ffe6",
+    "storage_bucket": "dawwen-8ffe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528817376930:android:3779cf4e3815857564d1fb",
+        "android_client_info": {
+          "package_name": "com.example.dawwen02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528817376930-b2of3akeldd46kicia3lpeeatf9g57a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCHlLqxbhFFJprjaRu4rq2lifXTzek0Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528817376930-b2of3akeldd46kicia3lpeeatf9g57a9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "528817376930-lt3akc2arcgr10chemvj163pk33qutnm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dawwen02.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528817376930:android:57b6dbc9a919f76764d1fb",
+        "android_client_info": {
+          "package_name": "com.seniorpj.dawwen1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528817376930-b2of3akeldd46kicia3lpeeatf9g57a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCHlLqxbhFFJprjaRu4rq2lifXTzek0Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528817376930-b2of3akeldd46kicia3lpeeatf9g57a9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "528817376930-lt3akc2arcgr10chemvj163pk33qutnm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dawwen02.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528817376930:android:35f8cb6d381aed0564d1fb",
+        "android_client_info": {
+          "package_name": "com.seniorproject.dawwen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528817376930-b2of3akeldd46kicia3lpeeatf9g57a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCHlLqxbhFFJprjaRu4rq2lifXTzek0Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528817376930-b2of3akeldd46kicia3lpeeatf9g57a9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "528817376930-lt3akc2arcgr10chemvj163pk33qutnm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dawwen02.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

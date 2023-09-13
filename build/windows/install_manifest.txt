@@ -1,0 +1,13 @@
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/runner/Debug/geolocator_windows_plugin.dll
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/runner/Debug/data/flutter_assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/runner/Debug/data/flutter_assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.html
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/runner/Debug/data/flutter_assets/packages/youtube_player_flutter/assets/speedometer.webp
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

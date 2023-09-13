@@ -1,0 +1,40 @@
+name: dawwen02
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0-122.0.dev <4.0.0'
+
+dependencies:
+  cloud_firestore: ^4.3.1
+  firebase_auth: ^4.2.5
+  firebase_core: ^2.4.1
+  curved_navigation_bar: ^1.0.3
+  flutter:
+    sdk: flutter
+  google_fonts: ^3.0.1
+  intl: ^0.17.0
+  table_calendar: ^3.0.8
+  date_format: ^2.0.7
+  flutter_animated_button: ^2.0.2
+  firebase_database: ^10.0.9
+  flutter_animated_dialog: ^2.0.1
+  google_maps_flutter: ^2.2.8
+  geolocator: ^9.0.2
+  youtube_player_flutter: ^8.1.2
+  favorite_button: ^0.0.4
+  flutter_slidable: ^3.0.0
+  ionicons: ^0.2.2
+  geocoding: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+assets:
+ -lib/images/

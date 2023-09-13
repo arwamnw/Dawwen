@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/_deps/nuget-subbuild/CMakeFiles/3e4d7442306dd214d5562dfc07084d61/nuget-populate.rule
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/_deps/nuget-subbuild/CMakeFiles/83c588da7d7aa3499a12720379fb2647/nuget-populate-complete.rule
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/_deps/nuget-subbuild/CMakeFiles/5cd8ba40212fca62b6e6e95458b26599/nuget-populate-build.rule
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/_deps/nuget-subbuild/CMakeFiles/5cd8ba40212fca62b6e6e95458b26599/nuget-populate-configure.rule
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/_deps/nuget-subbuild/CMakeFiles/5cd8ba40212fca62b6e6e95458b26599/nuget-populate-copyfile.rule
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/_deps/nuget-subbuild/CMakeFiles/5cd8ba40212fca62b6e6e95458b26599/nuget-populate-download.rule
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/_deps/nuget-subbuild/CMakeFiles/5cd8ba40212fca62b6e6e95458b26599/nuget-populate-install.rule
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/_deps/nuget-subbuild/CMakeFiles/5cd8ba40212fca62b6e6e95458b26599/nuget-populate-mkdir.rule
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/_deps/nuget-subbuild/CMakeFiles/5cd8ba40212fca62b6e6e95458b26599/nuget-populate-patch.rule
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/_deps/nuget-subbuild/CMakeFiles/5cd8ba40212fca62b6e6e95458b26599/nuget-populate-test.rule
+C:/Users/mrmor/Downloads/fiverr dawwen/dawwen02/build/windows/_deps/nuget-subbuild/CMakeFiles/5cd8ba40212fca62b6e6e95458b26599/nuget-populate-update.rule
